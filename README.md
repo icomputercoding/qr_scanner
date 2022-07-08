@@ -1,6 +1,8 @@
 # qr_scanner
 
-A new Flutter project.
+![alert](https://github.com/icomputercoding/qr_scanner/blob/master/qr_scanner.jpg)
+
+BARCODE SCANNER & OPEN WEBVIEW IN APP
 
 ## Getting Started
 
